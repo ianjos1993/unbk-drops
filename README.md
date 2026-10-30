@@ -3,10 +3,10 @@
 > **Gerenciador Desktop de Campanhas e Recompensas da Twitch para Windows**  
 > Desenvolvido por **Igor Anjos ([@ianjos1993](https://github.com/ianjos1993))** · Comunidade **[UnBK](https://www.unbk.com.br)**
 
-[![Versão](https://img.shields.io/github/v/release/ianjos1993/unbk-drops?style=for-the-badge&label=Vers%C3%A3o&color=7c3aed)](https://github.com/ianjos1993/unbk-drops/releases/latest)
-[![Plataforma](https://img.shields.io/badge/Plataforma-Windows_x64-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ianjos1993/unbk-drops/releases/latest)
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-10b981?style=for-the-badge)](https://github.com/ianjos1993/unbk-drops)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ianjos1993)
+[![Versão](./badges/version.svg)](https://github.com/ianjos1993/unbk-drops/releases/latest)
+[![Plataforma](./badges/platform.svg)](https://github.com/ianjos1993/unbk-drops/releases/latest)
+[![Licença](./badges/license.svg)](https://github.com/ianjos1993/unbk-drops)
+[![Buy Me a Coffee](./badges/buymeacoffee.svg)](https://www.buymeacoffee.com/ianjos1993)
 
 ---
 
