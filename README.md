@@ -6,14 +6,15 @@
 [![Versão](https://img.shields.io/badge/versão-v0.9.0-7c3aed?style=for-the-badge)](https://github.com/ianjos1993/unbk-drops/releases/latest)
 [![Plataforma](https://img.shields.io/badge/plataforma-Windows%20x64-0078d4?style=for-the-badge)](https://github.com/ianjos1993/unbk-drops/releases/latest)
 [![Licença](https://img.shields.io/badge/licença-MIT-10b981?style=for-the-badge)](https://github.com/ianjos1993/unbk-drops)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ianjos1993)
 
 ---
 
 ## Download
 
-Baixe a versão portátil mais recente diretamente na aba **[Releases](https://github.com/ianjos1993/unbk-drops/releases/latest)**:
+Baixe a versão mais recente diretamente na aba **[Releases](https://github.com/ianjos1993/unbk-drops/releases/latest)**:
 
-- **[UnBK Drops Portable.exe](https://github.com/ianjos1993/unbk-drops/releases/latest/download/UnBK.Drops.Portable.exe)** *(Portátil · Windows x64 · Atualização automática integrada · Não requer instalação de Python)*
+- **[UnBK Drops.exe](https://github.com/ianjos1993/unbk-drops/releases/latest/download/UnBK.Drops.exe)** *(Executável Portátil · Windows x64 · Atualização automática integrada · Não requer instalação de Python)*
 
 ---
 
@@ -62,9 +63,9 @@ Este projeto faz parte do meu portfólio de **Engenharia de Software com Orquest
 
 ---
 
-## Como Usar (Versão Portátil)
+## Como Usar
 
-1. Baixe o executável **[UnBK Drops Portable.exe](https://github.com/ianjos1993/unbk-drops/releases/latest/download/UnBK.Drops.Portable.exe)** e coloque-o em uma pasta de sua preferência (com permissão de escrita).
+1. Baixe o executável **[UnBK Drops.exe](https://github.com/ianjos1993/unbk-drops/releases/latest/download/UnBK.Drops.exe)** e coloque-o em uma pasta de sua preferência (com permissão de escrita).
 2. Abra o aplicativo. Ele criará automaticamente a pasta `UnBK-Data` ao lado do executável para salvar sua sessão e suas preferências.
 3. Vá em **Configurações → Conta Twitch**, escolha o método de login (**Login manual** ou **Conta do navegador via extensão**) e clique em **Conectar conta**.
 4. No login manual, entre na sua conta Twitch na janela do navegador que abrir e **feche essa janela** para concluir a validação.
