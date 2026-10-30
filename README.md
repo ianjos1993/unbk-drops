@@ -13,7 +13,7 @@
 
 Baixe a versão portátil mais recente diretamente na aba **[Releases](https://github.com/ianjos1993/unbk-drops/releases/latest)**:
 
-- **[UnBK Drops Portable 0.9.0.exe](https://github.com/ianjos1993/unbk-drops/releases/download/v0.9.0/UnBK.Drops.Portable.0.9.0.exe)** *(Portátil · Windows x64 · Não requer instalação de Python ou dependências)*
+- **[UnBK Drops Portable.exe](https://github.com/ianjos1993/unbk-drops/releases/latest/download/UnBK.Drops.Portable.exe)** *(Portátil · Windows x64 · Atualização automática integrada · Não requer instalação de Python)*
 
 ---
 
@@ -58,12 +58,13 @@ Este projeto faz parte do meu portfólio de **Engenharia de Software com Orquest
   - **Modos de Ordenação:** *Campanhas que terminam antes*, *Apenas jogos da lista* ou *Menor disponibilidade primeiro*.
 - **Controle de Vínculo de Conta:** Identifica campanhas ativas cujo vínculo de conta ainda não foi confirmado pela Twitch e permite optar por coletá-las mesmo antes da confirmação do vínculo.
 - **Inventário Completo:** Visualize drops resgatados, em andamento, encerrados ou sem vínculo confirmado com imagens oficiais das recompensas.
+- **Atualizador Automático via GitHub Releases:** Verifica periodicamente se há uma nova versão publicada no repositório oficial, exibe um botão de atualização rápida no topo da janela, baixa o novo executável validando o cabeçalho PE (`MZ`) e o tamanho do pacote, substitui o `.exe` portátil e reinicia o aplicativo automaticamente.
 
 ---
 
 ## Como Usar (Versão Portátil)
 
-1. Baixe o executável **[UnBK Drops Portable 0.9.0.exe](https://github.com/ianjos1993/unbk-drops/releases/latest)** e coloque-o em uma pasta de sua preferência (com permissão de escrita).
+1. Baixe o executável **[UnBK Drops Portable.exe](https://github.com/ianjos1993/unbk-drops/releases/latest/download/UnBK.Drops.Portable.exe)** e coloque-o em uma pasta de sua preferência (com permissão de escrita).
 2. Abra o aplicativo. Ele criará automaticamente a pasta `UnBK-Data` ao lado do executável para salvar sua sessão e suas preferências.
 3. Vá em **Configurações → Conta Twitch**, escolha o método de login (**Login manual** ou **Conta do navegador via extensão**) e clique em **Conectar conta**.
 4. No login manual, entre na sua conta Twitch na janela do navegador que abrir e **feche essa janela** para concluir a validação.
