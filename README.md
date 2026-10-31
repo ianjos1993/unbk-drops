@@ -57,6 +57,7 @@ Este projeto faz parte do meu portfólio de **Engenharia de Software com Orquest
   - **Iniciar essa Campanha:** Foca temporariamente em uma campanha específica e retoma a fila normal ao concluir.
   - **Priorizar Jogo:** Coloca o jogo no topo da sua lista salva com um clique.
   - **Modos de Ordenação:** *Campanhas que terminam antes*, *Apenas jogos da lista* ou *Menor disponibilidade primeiro*.
+- **Recuperação automática:** Reconecta reproduções sem resposta, atualiza inventário e resgates quando o progresso deixa de ser confirmado e procura outro jogo se a campanha escolhida ficar sem lives compatíveis. Um aviso no painel informa a ação, o motivo e o novo jogo/canal. As estatísticas, prioridades salvas e jogos excluídos são preservados.
 - **Controle de Vínculo de Conta:** Identifica campanhas ativas cujo vínculo de conta ainda não foi confirmado pela Twitch e permite optar por coletá-las mesmo antes da confirmação do vínculo.
 - **Inventário Completo:** Visualize drops resgatados, em andamento, encerrados ou sem vínculo confirmado com imagens oficiais das recompensas.
 - **Atualizador Automático via GitHub Releases:** Verifica periodicamente se há uma nova versão publicada no repositório oficial, exibe um botão de atualização rápida no topo da janela, baixa o novo executável validando o cabeçalho PE (`MZ`) e o tamanho do pacote, substitui o `.exe` portátil e reinicia o aplicativo automaticamente.
