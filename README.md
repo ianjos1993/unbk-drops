@@ -14,7 +14,7 @@
 
 Baixe a versão mais recente diretamente na aba **[Releases](https://github.com/ianjos1993/unbk-drops/releases/latest)**:
 
-- **[Instalador UnBK Drops 0.9.4](https://github.com/ianjos1993/unbk-drops/releases/latest/download/UnBK-Drops-Setup-0.9.4.exe)** *(Recomendado · Windows x64 · Importa dados da versão portátil · Atualizações pelo instalador)*
+- **[Instalador UnBK Drops 0.9.5](https://github.com/ianjos1993/unbk-drops/releases/latest/download/UnBK-Drops-Setup-0.9.5.exe)** *(Recomendado · Windows x64 · Importa dados da versão portátil · Atualizações pelo instalador)*
 
 - **[UnBK Drops.exe](https://github.com/ianjos1993/unbk-drops/releases/latest/download/UnBK.Drops.exe)** *(Executável Portátil · Windows x64 · Atualização automática integrada · Não requer instalação de Python)*
 
